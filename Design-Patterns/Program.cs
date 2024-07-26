@@ -1,3 +1,4 @@
 ﻿
+using Design_Patterns.GoF.Observer;
 
-Console.WriteLine("Hello, World!");
+ObserverProgram.Execute();
