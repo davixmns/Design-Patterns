@@ -1,3 +1,14 @@
+/*
+   O padrão Observer é um padrão comportamental que define uma dependência
+   de um-para-muitos entre objetos de modo que quando um objeto muda de estado,
+   todos os seus dependentes são notificados e atualizados automaticamente.
+    
+   Um objeto SUBJECT publica ou atualiza uma informação e existem objetos OBSERVERS
+   que se registram-se no SUBJECT para receber atualizações quando 
+   os dados do SUBJECT são alterados. Os OBSERVERs também podem cancelar
+    o seu registro e dessa forma não receber mais nenhuma atualização do SUBJECT. 
+ */
+
 namespace Design_Patterns.GoF.Observer;
 
 public class ObserverProgram
