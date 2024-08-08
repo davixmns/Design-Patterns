@@ -17,7 +17,7 @@ public class CommandProgram
        Client: Cria e configura os objetos ConcreteCommand e Invoker.
      */
     
-    public static void Execute()
+    public static void Run()
     {
         //Receiver
         var chef = new Chef();
