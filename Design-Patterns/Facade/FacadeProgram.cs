@@ -13,7 +13,7 @@ public class FacadeProgram
        Subsystem Classes: As classes que compõem o subsistema complexo. 
        Elas realizam o trabalho real e têm interfaces complexas.
      */
-    public static void Execute()
+    public static void Run()
     {
         MyFacade facade = new();
         

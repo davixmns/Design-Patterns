@@ -13,7 +13,7 @@ public class ObserverProgram
        os dados do SUBJECT são alterados. Os OBSERVERs também podem cancelar
         o seu registro e dessa forma não receber mais nenhuma atualização do SUBJECT. 
      */
-    public static void Execute()
+    public static void Run()
     {
         var subject = new ConcreteSubject("iPhone 15", false);
         
