@@ -1,4 +1,4 @@
-namespace Design_Patterns.Decorator.Implementation_2;
+namespace Design_Patterns.Decorator;
 
 public abstract class Decorator : IComponent
 {

@@ -1,6 +1,6 @@
-namespace Design_Patterns.Decorator.Implementation_2;
+namespace Design_Patterns.Decorator;
 
-public class Decorator2Program
+public class DecoratorProgram
 {
     public static void Run()
     {
