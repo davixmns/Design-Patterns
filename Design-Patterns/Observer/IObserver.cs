@@ -1,4 +1,4 @@
-namespace Design_Patterns.GoF.Observer.Interfaces;
+namespace Design_Patterns.Observer;
 
 public interface IObserver
 {

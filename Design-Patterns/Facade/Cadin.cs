@@ -1,4 +1,4 @@
-namespace Design_Patterns.GoF.Facade;
+namespace Design_Patterns.Facade;
 
 public class Cadin
 {

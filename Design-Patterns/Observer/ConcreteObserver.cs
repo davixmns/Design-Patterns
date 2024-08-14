@@ -1,6 +1,6 @@
-using Design_Patterns.GoF.Observer.Interfaces;
+using Design_Patterns.Observer;
 
-namespace Design_Patterns.GoF.Observer;
+namespace Design_Patterns.Observer;
 
 public class ConcreteObserver : IObserver
 {

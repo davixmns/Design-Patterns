@@ -1,8 +1,6 @@
-﻿
-using Design_Patterns.Decorator;
-using Design_Patterns.GoF.Command;
-using Design_Patterns.GoF.Facade;
-using Design_Patterns.GoF.Observer;
+﻿using Design_Patterns.Decorator;
+using Design_Patterns.Facade;
+using Design_Patterns.Observer;
 
 // ObserverProgram.Run();
 // CommandProgram.Run();

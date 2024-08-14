@@ -1,5 +1,5 @@
 
-namespace Design_Patterns.GoF.Observer;
+namespace Design_Patterns.Observer;
 
 public class ObserverProgram
 {
